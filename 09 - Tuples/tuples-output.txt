@@ -1,0 +1,7 @@
+tup1[0]:  physics
+tup2[1:5]:  (2, 3, 4, 5)
+
+(12, 34.56, 'abc', 'xyz')
+
+('physics', 'chemistry', 1997, 2000)
+After deleting tup : 

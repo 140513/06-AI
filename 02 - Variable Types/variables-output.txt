@@ -1,0 +1,44 @@
+Numbers
+
+100
+1000.0
+John
+
+
+Strings
+
+Hello World!
+H
+llo
+llo World!
+Hello World!Hello World!
+Hello World!TEST
+
+
+Lists
+
+['abcd', 786, 2.23, 'john', 70.2]
+abcd
+[786, 2.23]
+[2.23, 'john', 70.2]
+[123, 'john', 123, 'john']
+['abcd', 786, 2.23, 'john', 70.2, 123, 'john']
+
+
+Tuple
+
+('abcd', 786, 2.23, 'john', 70.2)
+abcd
+(786, 2.23)
+(2.23, 'john', 70.2)
+(123, 'john', 123, 'john')
+('abcd', 786, 2.23, 'john', 70.2, 123, 'john')
+
+
+Dictionaries
+
+This is one
+This is two
+{'name': 'john', 'code': 6734, 'dept': 'sales'}
+dict_keys(['name', 'code', 'dept'])
+dict_values(['john', 6734, 'sales'])

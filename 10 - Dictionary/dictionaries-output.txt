@@ -1,0 +1,9 @@
+dict['Name']:  Zara
+dict['Age']:  7
+
+dict['Zara']:  Zara
+
+dict['Age']:  8
+dict['School']:  DPS School
+
+dict['Name']:  Manni

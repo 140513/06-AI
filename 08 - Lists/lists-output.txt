@@ -1,0 +1,8 @@
+list1[0]:  physics
+list2[1:5]:  [2, 3, 4, 5]
+
+Value available at index 2 :  1997
+New value available at index 2 :  2001
+
+['physics', 'chemistry', 1997, 2000]
+After deleting value at index 2 :  ['physics', 'chemistry', 2000]

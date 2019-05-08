@@ -1,0 +1,19 @@
+var1[0]:  H
+var2[1:5]:  ytho
+
+Updated String :-  Hello Python
+
+My name is Zara and weight is 21 kg!
+
+this is a long string that is made up of
+several lines and non-printable characters such as
+TAB ( 	 ) and they will show up that way when displayed.
+NEWLINEs within the string, whether explicitly given like
+this within the brackets [ 
+ ], or just a NEWLINE within
+the variable assignment will also show up.
+
+
+C:\nowhere
+
+C:\\nowhere

@@ -1,0 +1,37 @@
+This is first call to the user defined function!
+Again second call to the same function
+
+Values inside the function before change:  [10, 20, 30]
+Values inside the function after change:  [10, 20, 50]
+Values outside the function:  [10, 20, 50]
+
+Values inside the function:  [1, 2, 3, 4]
+Values outside the function:  [10, 20, 30]
+
+David Fixed This
+
+My string
+
+Name:  miki
+Age  50
+
+Name:  miki
+Age  50
+Name:  miki
+Age  35
+
+Output is: 
+10
+Output is: 
+70
+60
+50
+
+Value of total :  30
+Value of total :  40
+
+Inside the function :  30
+Outside the function :  30
+
+Inside the function local total :  30
+Outside the function global total :  0
