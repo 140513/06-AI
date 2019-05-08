@@ -1,2 +1,2 @@
 # 06-AI
-Python
+Tugas Liburan (Python)
